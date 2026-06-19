@@ -83,20 +83,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YashDate31&theme=tokyonight&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 🚀 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YashDate31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
 ---
 
 ### 📊 GitHub Stats & Top Languages
