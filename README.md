@@ -83,7 +83,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Contributions
+<div align="center">
+  <img src="https://ghchart.rshah.org/007ACC/YashDate31" alt="YashDate31's Github chart" />
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity Overview
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=YashDate31&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
@@ -91,23 +98,12 @@
 </div>
 
 <div align="center">
+  <!-- Profile details card (Radar Chart) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashDate31&theme=tokyonight" alt="Activity Overview" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YashDate31&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YashDate31&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 🚀 Top Contributed Repositories
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YashDate31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 <br>
