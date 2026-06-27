@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Content+Creator;Building+Secret+Tech;Innovating+at+PranaAI" alt="Typing SVG" />
 
 <p align="center">
+  <a href="https://yashvijaydate.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/></a>
   <a href="https://instagram.com/_dy.patil_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://linkedin.com/in/yash-date-a361a8329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yashdate31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -18,6 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
+- 🌐 Check out my portfolio: [yashvijaydate.netlify.app](https://yashvijaydate.netlify.app/)
 - 🔭 I am currently working on **Secret Tech**
 - 🤖 **AI/ML enthusiast** and active **Content creator**
 - 🌱 Exploring cutting-edge tech and also working on **PranaAI**
