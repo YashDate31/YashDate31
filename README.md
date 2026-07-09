@@ -2,7 +2,7 @@
 
 # 💫 Hi there, I'm Yash Date 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Content+Creator;Building+Secret+Tech;Innovating+at+AgroVision AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Content+Creator;Building+Secret+Tech;Innovating+at;AgroVisionAI" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://yashvijaydate.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Portfolio"/></a>
